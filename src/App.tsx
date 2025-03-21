@@ -93,7 +93,7 @@ const AnimatedAuth = () => {
       // Redirect after success
       setTimeout(() => {
         // Using React Router navigation instead of window.location
-        window.location.href ='https://blueprint-alpha.vercel.app/';
+        window.location.href ='https://dashboard-final-ochre.vercel.app/';
       }, 1500);
     }, 2000);
   };
